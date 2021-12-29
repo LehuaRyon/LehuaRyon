@@ -24,7 +24,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=LehuaRyon&title=PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h2 align="left">📬 How to reach me: </h2>
-<p dir="auto"><a href="https://www.linkedin.com/in/jasmine-ryon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://jryon12.medium.com/"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" /></a><a href="mailto:jryon12@priorypride.net"><img src="https://img.shields.io/badge/jryon12@priorypride.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/jasmine-ryon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://jasmine-ryon.medium.com/"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" /></a><a href="mailto:jryon12@priorypride.net"><img src="https://img.shields.io/badge/jryon12@priorypride.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 <p>If you have any questions/feedback feel free to reach out to me!</p>
 

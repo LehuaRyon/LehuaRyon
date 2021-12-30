@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lehuaryon&label=Profile%20views&color=0e75b6&style=flat" alt="lehuaryon" /> </p>
 <h3 align="center"> Hello! I'm Jasmine Ryon </h3>
 
 <h2 align="center"> I'm a Full-Stack Software Engineer </h2>
@@ -9,7 +10,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/></div>
 
 <h2>🌱 I'm currently learning:</h2>
-<p>React hooks</p>
+<p>React hooks and Algorithms</p>
 
 <h2>🔭 I'm currently working on:</h2>
 <p>My porfolio website and adding features to past projects.</p>

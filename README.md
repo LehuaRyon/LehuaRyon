@@ -20,9 +20,10 @@
 
 <h2 align="left">📈 GitHub Stats:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LehuaRyon&show_icons=true&locale=en" alt="LehuaRyon" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LehuaRyon&" alt="LehuaRyon" /></p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LehuaRyon&show_icons=true&locale=en&layout=compact" alt="LehuaRyon" /></p><br><br>
 <p></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LehuaRyon&" alt="LehuaRyon" /></p><br>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LehuaRyon&" alt="LehuaRyon" /></p><br> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=LehuaRyon&title=PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 

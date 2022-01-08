@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></div>
 
 <h2>🌱 I'm currently learning:</h2>
-<p>React hooks and Algorithms</p>
+<p>Algorithms and MERN Stack</p>
 
 <h2>🔭 I'm currently working on:</h2>
-<p>My porfolio website and adding features to past projects.</p>
+<p>A craft services and porfolio website for my wife as well as adding features to past projects.</p>
 <!-- 
 <h2>👯 I'm looking to collaborate on:</h2>
 <p>A frontend-focused weather application with OpenWeatherMap api and a frontend.</p> -->

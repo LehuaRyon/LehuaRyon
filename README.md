@@ -11,8 +11,8 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/ruby on rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white"/></a>
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Ruby On Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white"/></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
@@ -26,14 +26,14 @@
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white"/></a>
     <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"/></a>
     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white"></a>
-    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white"></a>
+    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white"></a>
 </p>
 
 <h2 align="left">🗄️ Databases and cloud hosting: </h2>
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"/></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"/></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
@@ -43,7 +43,7 @@
 <h2 align="left">💻 Software and tools: </h2>
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"/></a>
+    <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>

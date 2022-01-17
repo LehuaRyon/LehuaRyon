@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/LehuaRyon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Jasmine%20Ryon;I'm%20a%20Full-Stack%20Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/LehuaRyon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Jasmine%20Ryon;A%20Full-Stack%20Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <h4 align="center"> I'm continuously learning and striving to use my problem-solving abilities, methodical approach, attention to detail, and effective communication skills to deliver fulfilling experiences to users in a timely manner.</h4>

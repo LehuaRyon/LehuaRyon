@@ -61,7 +61,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LehuaRyon&" alt="LehuaRyon" /></p><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LehuaRyon&show_icons=true&locale=en&layout=compact" alt="LehuaRyon" /></p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=LehuaRyon&show_icons=true&locale=en"><img alt="LehuaRyon's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=LehuaRyon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=LehuaRyon&show_icons=true&locale=en"><img alt="LehuaRyon's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=LehuaRyon&show_icons=true&count_private=true&theme=react&hide_border=true&fire=F8D866&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></a>
 
 <a href="https://github.com/LehuaRyon/github-readme-stats"><img alt="LehuaRyon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=LehuaRyon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 

@@ -28,6 +28,7 @@
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-Ui&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/Redux-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting

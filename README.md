@@ -61,6 +61,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LehuaRyon&" alt="LehuaRyon" /></p><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LehuaRyon&show_icons=true&locale=en&layout=compact" alt="LehuaRyon" /></p>
 
+<a href="https://github.com/LehuaRyon/github-readme-stats"><img alt="LehuaRyon's Github Stats" src="https://LehuaRyon-github-readme-stats.vercel.app/api/?username=LehuaRyon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+<a href="https://github.com/LehuaRyon/github-readme-stats"><img alt="LehuaRyon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehuaRyon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=LehuaRyon&title=PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h2 align="left">📬 How to reach me: </h2>

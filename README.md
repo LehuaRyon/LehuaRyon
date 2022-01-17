@@ -1,11 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lehuaryon&label=Profile%20views&color=0e75b6&style=flat" alt="lehuaryon" /> </p>
-<h3 align="center"> Hello! I'm Jasmine Ryon </h3>
-
 <p align="center">
-  <a href="https://github.com/LehuaRyon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Jasmine%20Ryon;I'm%20a%20Full-Stack%20Web%20and%20App%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/LehuaRyon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Jasmine%20Ryon;I'm%20a%20Full-Stack%20Web%20and%20App%20Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<h2 align="center"> I'm a Full-Stack Software Engineer </h2>
 <h4 align="center"> I'm continuously learning and striving to use my problem-solving abilities, methodical approach, attention to detail, and effective communication skills to deliver fulfilling experiences to users in a timely manner.</h4>
 
 <h2 align="left">💼 Languages and tools: </h2>

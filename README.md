@@ -51,7 +51,7 @@
 
 
 <h2>🌱 I'm currently learning:</h2>
-<p>Algorithms and MERN Stack</p>
+<p>MERN Stack</p>
 
 <h2>🔭 I'm currently working on:</h2>
 <p>A craft services and porfolio website for my wife as well as adding features to past projects.</p>

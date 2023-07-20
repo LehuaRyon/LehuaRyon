@@ -66,7 +66,7 @@
     <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white"></a>
     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"></a>
     <a href="#"><img alt="IOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white"></a>
-    <a href="#"><img a;t="XCode" src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white"></a>
+    <a href="#"><img a;t="XCode" src="https://img.shields.io/badge/XCode-007ACC?logo=Xcode&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white"></a>

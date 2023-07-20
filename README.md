@@ -33,7 +33,7 @@
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white"></a>
-    <a href="#"><img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?logo=testing-library&logoColor=red"></a>
+    <a href="#"><img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?logo=Testing-Library&logoColor=red"></a>
 </p>
 
 <h2 align="left">🗄️ Databases and cloud hosting: </h2>

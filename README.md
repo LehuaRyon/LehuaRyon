@@ -14,16 +14,16 @@
     <a href="#"><img src="https://img.shields.io/badge/Ruby On Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white"/></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<!--     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 <h2 align="left">🧰 Frameworks and libraries: </h2>
 <p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI-%230081CB.svg?logo=material-ui&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white"/></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white"/></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI-%230081CB.svg?logo=material-ui&logoColor=white"></a>
     <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"/></a>
     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white"></a>
     <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white"></a>
@@ -44,9 +44,9 @@
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
-<!--     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
 

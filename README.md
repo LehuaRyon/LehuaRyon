@@ -28,8 +28,9 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI-%230081CB.svg?logo=material-ui&logoColor=white"></a>
     <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"/></a>
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white"></a>
+    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"></a>
     <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white"></a>
+    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white"></a>
@@ -63,8 +64,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white"></a>
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"></a>
     <a href="#"><img alt="IOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white"></a>
     <a href="#"><img a;t="XCode" src="https://img.shields.io/badge/XCode-007ACC?logo=Xcode&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>

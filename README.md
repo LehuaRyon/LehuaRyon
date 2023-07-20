@@ -56,8 +56,6 @@
 <h2>🔭 I'm currently working on:</h2>
 <p>A craft services and porfolio website for my wife as well as adding features to past projects.</p>
 
-<a href="https://github.com/LehuaRyon/github-readme-stats"><img alt="LehuaRyon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=LehuaRyon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-
 <a href="https://github-readme-stats.vercel.app/api?username=LehuaRyon&show_icons=true&locale=en"><img alt="LehuaRyon's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=LehuaRyon&theme=react&hide_border=true&fire=F8D866&ring=F85D7F&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F85D7F"/></a>
 
 <a href="https://github.com/LehuaRyon/github-readme-stats"><img alt="LehuaRyon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehuaRyon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>

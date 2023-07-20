@@ -70,8 +70,8 @@
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Eslint" src="https://img.shields.io/badge/ESLint-3A33D1?logo=eslint&logoColor=white"></a>
-    <a href="#"><img alt="Stylelint" src="https://img.shields.io/badge/stylelint-000?logo=stylelint&logoColor=white"></a>
-    <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?slogo=prettier&logoColor=F7BA3E"></a>
+    <a href="#"><img alt="Stylelint" src="https://img.shields.io/badge/Stylelint-000?logo=stylelint&logoColor=white"></a>
+    <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-1A2C34?slogo=prettier&logoColor=F7BA3E"></a>
     <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"></a>
